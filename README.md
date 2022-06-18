@@ -1,4 +1,4 @@
-# Desafio de Flexbox da plataforma dio.me
+# Desafio de Flexbox do Bootcamp Impulso JavaScript Evolution da Plataforma DIO.ME
 ## Esse é o repositório do desafio de Flexbox, na qual foi feita a interface de login do Instagram!
 ## Link: https://allanbismarck123.github.io/instagram-dio/
 
