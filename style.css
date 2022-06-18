@@ -82,6 +82,7 @@ main > div > div:nth-child(3) div {
 
 .button-download {
     max-width: 10vw;
+    cursor: pointer;
 }
 
 button {
@@ -90,4 +91,5 @@ button {
     color: white;
     padding: 0.6vw;
     border-radius: 5px;
+    cursor: pointer;
 }
